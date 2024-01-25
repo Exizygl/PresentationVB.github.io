@@ -52,7 +52,9 @@ const About = () => {
         rythme de 3 semaines en entreprise et une semaine en formation. J’ai les capacités
         necessaires pour m’adapter à votre entreprise et je suis capable d’apprendre
         facilement les langages et framework que vous utilisez, Je suis donc capable de
-        concevoir vos applications de demain
+        concevoir vos applications de demain.
+
+        Voici mon <a href="https://github.com/Exizygl">GitHub</a>
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

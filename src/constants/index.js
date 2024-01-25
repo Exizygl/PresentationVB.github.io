@@ -107,6 +107,7 @@ import {
         "Développemnt en équipe suivant la méthode scrum sur un rythme de 2 semaines.",
         "Participation à des code review pour expliqué le code anisi que donner des conseils.",
         "Repartir les taches dans un trello ainsi qu'assigné les taches pour le sprint",
+        "Voici le site: https://trade-corner.onrender.com"
       ],
     },
     {
@@ -124,10 +125,10 @@ import {
     },
     {
       title: "Titre professionnel Concepteur Developpeur d'applications ",
-      company_name: "2i Academy",
+      company_name: "",
       icon: deuxi,
       iconBg: "#383E56",
-      date: "2023-2025",
+      date: "2024-2025",
       points: [
         "Formation pour obtenir le titre de Titre professionnel Concepteur Developpeur d'applications",
         "Alternance a un rythme de 1 une semaine formation, 3 semaines en entreprises",
