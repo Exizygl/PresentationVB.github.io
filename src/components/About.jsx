@@ -37,7 +37,7 @@ const ServiceCard = ({ index, title, icon }) => (
 const About = () => {
   return (
     <>
-      <motion.div variants ={textVariant()}>
+      <motion.div variants={textVariant()}>
         <p className={styles.sectionSubText}> Introduction</p>
         <h2 className={styles.sectionHeadText}>Intro</h2>
       </motion.div>
@@ -46,11 +46,17 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-white text-[17px] max-w-3xl leading-[30px]'
       >
-        Je suis un developeur web avec de l'experience en React,PHP, Nodejs cherchant une alternance, Je suis à la recherche d'une entreprise pour le titre de Concepteur Developpeur D'Application (Titre RNCP niveau 6 - Bac+3/4) à la 2i Academy qui commence en Septembre/Novembre, avec un rythme de 3 semaines en entreprise et une semaine en formation.
+        Bonjour, je suis à la recherche d'une entreprise pour faire une alternance pour le titre
+        de Concepteur Developpeur D'Application(titre RNCP de niveau II, équivalent Bac+3/4)
+        en environnement DevOps avec Simplon qui commence le 12 février 2023, suivant un
+        rythme de 3 semaines en entreprise et une semaine en formation. J’ai les capacités
+        necessaires pour m’adapter à votre entreprise et je suis capable d’apprendre
+        facilement les langages et framework que vous utilisez, Je suis donc capable de
+        concevoir vos applications de demain
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
-      {services.map((service, index) => (
+        {services.map((service, index) => (
           <ServiceCard key={service.title} index={index} {...service} />
         ))}
       </div>
