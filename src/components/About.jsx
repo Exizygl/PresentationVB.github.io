@@ -48,7 +48,7 @@ const About = () => {
       >
         Bonjour, je suis à la recherche d'une entreprise pour faire une alternance pour le titre
         de Concepteur Developpeur D'Application(titre RNCP de niveau II, équivalent Bac+3/4)
-        en environnement DevOps avec Simplon qui commence le 12 février 2023, suivant un
+        en environnement DevOps avec Simplon qui commence le 8 avril 2023, suivant un
         rythme de 3 semaines en entreprise et une semaine en formation. J’ai les capacités
         necessaires pour m’adapter à votre entreprise et je suis capable d’apprendre
         facilement les langages et framework que vous utilisez, Je suis donc capable de

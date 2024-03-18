@@ -84,6 +84,19 @@ import {
   ];
   const experiences = [
     {
+      title: "Titre professionnel Concepteur Developpeur d'applications ",
+      company_name: "Simplon",
+      icon: deuxi,
+      iconBg: "#383E56",
+      date: "2024-2025",
+      points: [
+        "Formation pour obtenir le titre de Titre professionnel Concepteur Developpeur d'applications",
+        "Alternance a un rythme de 1 une semaine formation, 3 semaines en entreprises",
+        "Passage devant un jury pour confirmer l'acquisition du diplome",
+        
+      ],
+    }
+    ,{
       title: "Stage developpeur web",
       company_name: "M2i",
       icon: M2i,
@@ -123,20 +136,6 @@ import {
         
       ],
     },
-    {
-      title: "Titre professionnel Concepteur Developpeur d'applications ",
-      company_name: "",
-      icon: deuxi,
-      iconBg: "#383E56",
-      date: "2024-2025",
-      points: [
-        "Formation pour obtenir le titre de Titre professionnel Concepteur Developpeur d'applications",
-        "Alternance a un rythme de 1 une semaine formation, 3 semaines en entreprises",
-        "Passage devant un jury pour confirmer l'acquisition du diplome",
-        
-      ],
-    },
-    
   ];
   
   export { services, experiences};
