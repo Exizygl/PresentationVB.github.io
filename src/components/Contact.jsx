@@ -33,8 +33,8 @@ const Contact = () => {
 
     emailjs
       .send(
-        import.meta.env.VITE_APP_EMAILJS_SERVICE_ID,
-        import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID,
+        'service_3gvg5w5',
+        'template_8zehncg',
         {
           from_name: form.name,
           to_name: "Bastien Vasseur",
@@ -42,12 +42,12 @@ const Contact = () => {
           to_email: "vasseurba@gmail.com",
           message: form.message,
         },
-        import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
+        '4acOzzR1se7_kDi0R'
       )
       .then(
         () => {
           setLoading(false);
-          alert("Je vous répondrai des que posible");
+          alert("Je vous répondrai dès que possible");
 
           setForm({
             name: "",
@@ -59,7 +59,7 @@ const Contact = () => {
           setLoading(false);
           console.error(error);
 
-          alert("erreur,esseyeé encore");
+          alert("erreur,esseyée encore");
         }
       );
   };
