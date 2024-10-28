@@ -27,7 +27,7 @@ import sql from "./tech/sql.png";
 
 import eura from "./company/eura.png";
 import M2i from "./company/M2i.png";
-import deuxi from "./company/Simplon.png";
+import Simplon from "./company/Simplon.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -58,7 +58,7 @@ export {
   sql,
   eura,
   M2i,
-  deuxi,
+  Simplon,
   carrent,
   jobit,
   tripguide,
