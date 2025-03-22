@@ -89,25 +89,13 @@ import {
       company_name: "Simplon",
       icon: Simplon,
       iconBg: "#383E56",
-      date: "2024-2025",
+      date: "2025",
       points: [
         "Formation pour obtenir le titre de Titre professionnel Concepteur Developpeur d'applications",
-        "Alternance a un rythme de 1 une semaine formation, 3 semaines en entreprises",
-        "Passage devant un jury pour confirmer l'acquisition du diplome",
+        "Concevoir et développer une application sécurisée organisée en couches",
+        "Préparer le déploiement d’une application sécurisée",
+       
         
-      ],
-    },
-    {
-      title: "Stage developpeur web",
-      company_name: "M2i",
-      icon: M2i,
-      iconBg: "#383E56",
-      date: "April 2022 - Mai 2023",
-      points: [
-        "Développement de l'application de gestion de l'inventaire des différents agences en PHP",
-        "Participer a des réunions pour lister les besoins du client, ainsi que poser les questions permettant de récupérer les informations nessésaire au projet",
-        "Maquetage de l'application ainsi que de la création de la base de donnée ",
-        "Réunion pour suivre l'avancé de l'application et et avoir un premiere avie du client sur l'application",
       ],
     },
     {
@@ -124,6 +112,19 @@ import {
         "Voici le site: https://trade-corner.onrender.com"
       ],
     },
+    {
+      title: "Stage developpeur web",
+      company_name: "M2i",
+      icon: M2i,
+      iconBg: "#383E56",
+      date: "April 2022 - Mai 2023",
+      points: [
+        "Développement de l'application de gestion de l'inventaire des différents agences en PHP",
+        "Participer a des réunions pour lister les besoins du client, ainsi que poser les questions permettant de récupérer les informations nessésaire au projet",
+        "Maquetage de l'application ainsi que de la création de la base de donnée ",
+        "Réunion pour suivre l'avancé de l'application et et avoir un premiere avie du client sur l'application",
+      ],
+    }
     {
       title: "titre developpeur web/web mobile",
       company_name: "M2i",
