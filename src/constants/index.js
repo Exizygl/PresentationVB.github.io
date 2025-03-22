@@ -99,7 +99,7 @@ import {
       ],
     },
     {
-      title: "Développeur Full stack",
+      title: "Développeur React/Node.js",
       company_name: "Incubateur",
       icon: eura,
       iconBg: "#E6DEDD",
