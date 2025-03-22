@@ -124,7 +124,7 @@ import {
         "Maquetage de l'application ainsi que de la création de la base de donnée ",
         "Réunion pour suivre l'avancé de l'application et et avoir un premiere avie du client sur l'application",
       ],
-    }
+    },
     {
       title: "titre developpeur web/web mobile",
       company_name: "M2i",
