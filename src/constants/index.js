@@ -14,6 +14,7 @@ import {
     eura,
     M2i,
     Simplon,
+    Pixelight
   
   } from "../assets";
   
@@ -84,6 +85,19 @@ import {
     
   ];
   const experiences = [
+    {
+      title: "Developpeur REACT/NESTJS",
+      company_name: "Pixelight",
+      icon: Pixelight,
+      iconBg: "#E6DEDD",
+      date: "2025",
+      points: [
+        "Gestion et aide de plusieurs projets de l’entreprise:",
+        "Debuggage d’ancians site.",
+        "Planification et création d’un site e-commerce",
+        "Correction d’erreurs fait par l’IA et création de fonctionnalités sur un site B2B"
+      ],
+    },
     {
       title: "Titre professionnel Concepteur Developpeur d'applications ",
       company_name: "Simplon",
