@@ -21,9 +21,9 @@ import tailwind from "./tech/tailwind.png";
 import php from "./tech/php.png";
 import sass from "./tech/sass.png";
 import sql from "./tech/sql.png";
-import NestJS from "./tech/NestJS";
-import Python from "./tech/Pixelight";
-import Docker from "./tech/Docker";
+import NestJS from "./tech/NestJS.png";
+import Python from "./tech/Pixelight.png";
+import Docker from "./tech/Docker.png";
 
 
 
@@ -31,7 +31,7 @@ import Docker from "./tech/Docker";
 import eura from "./company/eura.png";
 import M2i from "./company/M2i.png";
 import Simplon from "./company/Simplon.png";
-import Pixelight from "./company/Pixelight";
+import Pixelight from "./company/Pixelight.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
