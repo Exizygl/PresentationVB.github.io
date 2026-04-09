@@ -23,7 +23,7 @@ import sass from "./tech/sass.png";
 import sql from "./tech/sql.png";
 import NestJS from "./tech/NestJS.png";
 import Python from "./tech/Python.png";
-import Docker from "./tech/Docker.png";
+import Docker from "./tech/docker.png";
 
 
 
