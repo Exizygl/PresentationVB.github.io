@@ -46,12 +46,8 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-white text-[17px] max-w-3xl leading-[30px]'
       >
-        Bonjour, je suis à la recherche d'une entreprise pour faire un stage pour le titre
-        de Concepteur Developpeur D'Application(titre RNCP de niveau II, équivalent Bac+3/4)
-        en environnement DevOps avec Simplon qui commence le 22 août 2025. J’ai les capacités
-        necessaires pour m’adapter à votre entreprise et je suis capable d’apprendre
-        facilement les langages et framework que vous utilisez, Je suis donc capable de
-        concevoir vos applications de demain.
+      Bonjour, je suis à la recherche d'une entreprise pour réaliser une alternance  de 18 mois dans le cadre du titre de Data Engineer (Titre RNCP niveau 7 – Bac+5) avec Simplon le 12 octobre .(Trois semaines en entreprise, une semaines en formation)
+      Passionné par l’ingénierie des données, je souhaite contribuer à la conception de pipelines robustes et à la valorisation des données afin d’accompagner la prise de décision. Rigoureux et adaptable, je suis prêt à m’investir pleinement dans vos projets data.
 
         Voici mon <a href="https://github.com/Exizygl">GitHub</a>
       </motion.p>
