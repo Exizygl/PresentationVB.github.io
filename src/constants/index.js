@@ -14,7 +14,10 @@ import {
     eura,
     M2i,
     Simplon,
-    Pixelight
+    Pixelight,
+    NestJS,
+    Python,
+    Docker
   
   } from "../assets";
   
