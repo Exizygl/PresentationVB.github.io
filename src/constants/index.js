@@ -82,6 +82,18 @@ import {
       title: "javascript",
       icon: javascript,
     },
+    {
+      title: "NestJS",
+      icon: NestJS,
+    },
+    {
+      title: "Python",
+      icon: Python,
+    },
+    {
+      title: "Docker",
+      icon: Docker,
+    },
     
   ];
   const experiences = [
