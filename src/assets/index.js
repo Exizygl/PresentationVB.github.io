@@ -25,7 +25,7 @@ import NestJS from "./tech/NestJS.png";
 import Python from "./tech/Python.png";
 import Docker from "./tech/docker.png";
 
-
+import TradeCorner from "./Project/TradeCorner.jpg";
 
 
 import eura from "./company/eura.png";
@@ -70,4 +70,5 @@ export {
   carrent,
   jobit,
   tripguide,
+  TradeCorner
 };
