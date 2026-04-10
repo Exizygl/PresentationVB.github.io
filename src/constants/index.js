@@ -17,7 +17,8 @@ import {
     Pixelight,
     NestJS,
     Python,
-    Docker
+    Docker,
+    TradeCorner
   
   } from "../assets";
   
@@ -168,5 +169,28 @@ import {
       ],
     },
   ];
+  const projects = [
+  {
+    name: "Trade Corner",
+    description:
+      "Peer-2-Peer plateform faites en colaboration",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: TradeCorner,
+    source_code_link: "https://trade-corner.onrender.com/",
+  },
+];
   
-  export { services, experiences};
+  export { services, experiences, projects};
